@@ -1,5 +1,6 @@
 # WxMock
 微信小程序 - 模拟数据工具
+参考https://github.com/webx32/WxMock ，感谢分享!自己稍微对WxMock.js做了一些修改。
 ##### 使用方法
 
 ### 使用代码片段分享 
